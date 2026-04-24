@@ -1,0 +1,67 @@
+h1{
+background-color: blue;
+font-style: arial;
+font-size: 50px;
+text-align: center;
+color: coral;
+padding:40px 30px ;
+}
+h2{
+background-color: blue;
+font-style: italic;
+font-size: x-large;
+text-align: center;
+color: coral;
+padding:40px 30px ;
+}
+h3{
+background-color: blue;
+font-style: italic;
+font-size: x-large;
+text-align: center;
+color: coral;
+padding:40px 30px ;
+}
+h4{
+background-color: blue;
+font-style: italic;
+font-size: x-large;
+text-align: center;
+color: coral;
+padding:40px 30px ;
+}
+section{
+    font-style: italic;
+    font-size: medium;
+}
+.skill-box{
+    display: block;
+    background-color: peru;
+    color: crimson;
+    padding: 50px 30px;
+    margin:10px;
+    font-size: larger;
+}
+p{
+    background-color: aliceblue;
+    text-align: center;
+    font-size: larger;
+    color: cornflowerblue;
+}
+body{
+    font-size: medium;
+    font-family: arial;
+}
+#header{
+    background-color: #264653;
+    color: mintcream;
+    padding: 20px;
+    text-align: center;
+}
+.about{
+    margin: 20px;
+    font-size: 18px;
+}
+#skills{
+    margin: 20px;
+}
